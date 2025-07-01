@@ -1,4 +1,4 @@
 ﻿ip address;device_type;device_type_class;username;password;secret
-172.25.4.171;cisco_ios;router;sasa;sasa;
-172.25.4.172;cisco_ios;router;sasa;sasa;sasa
-172.25.20.200;juniper;router;root;root1234
+172.30.7.10;cisco_ios;switch;gchubko;Gr33nn3t123!
+172.30.5.250;cisco_ios;switch;gchubko;Gr33nn3t123!
+172.30.7.6;cisco_ios;switch;gchubko;Gr33nn3t123!
