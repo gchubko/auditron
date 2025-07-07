@@ -1,5 +1,0 @@
-﻿device_type;device_type_class;commands
-cisco_ios;router;show memory;show tech-support;show version;show running-config;show processes cpu;show logging;show clock;show ip interface brief;show interfaces;show arp;show ip route;show ip protocols
-cisco_ios;switch;show memory;show tech-support;show ip route;show running-config;show ip interface brief;show version
-juniper;router;show version;show configuration;show interfaces terse;show interfaces diagnostics optics;show interfaces extensive;show route
-juniper;switch;show configuration;show chassis hardware
