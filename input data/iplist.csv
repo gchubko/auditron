@@ -1,0 +1,4 @@
+ip address;device_type;device_type_class;username;password;secret
+192.0.0.1;cisco_ios;switch;cisco;cisco;
+192.0.0.2;cisco_ios;switch;cisco;cisco;
+192.0.0.3;cisco_ios;router;cisco;cisco;enable_secret
